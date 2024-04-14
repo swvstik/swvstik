@@ -5,7 +5,8 @@
 <h3 style="font-size:110%;">Hello! I'm <i>@swvstik</i> - and welcome to my profile! <img src="https://media0.giphy.com/media/26DN81TqLPIzBlksw/giphy.gif" width="25"></h3>
 
 ---
-<img align='right' src="https://media3.giphy.com/media/PhE9yZiXP0tGgK3vcP/giphy.gif?cid=790b76118adacf7befb007acb642e7cfda2354c259e4f453&rid=giphy.gif&ct=s" width="250">
+
+<img align='right' src="https://media3.giphy.com/media/PhE9yZiXP0tGgK3vcP/giphy.gif?cid=790b76118adacf7befb007acb642e7cfda2354c259e4f453&rid=giphy.gif&ct=s" width="120">
 
 ### About Me:
 
