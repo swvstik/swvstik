@@ -42,7 +42,4 @@ My hobbies include music, art, coding and gaming.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swvstik)
 
 ---
-</br></br>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-<p align='center'> Have a great day! <img src="https://media0.giphy.com/media/zJwWnX0w2L6eSdefXU/giphy.gif" width="20"> </p>
+</br>
