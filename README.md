@@ -26,7 +26,7 @@ My hobbies include music, art, coding and gaming.
 ---
 
 ### Development Skills: 
-[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,js,css)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,js,css,lua)](https://skillicons.dev)
 
 ---
 
