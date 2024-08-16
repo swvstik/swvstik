@@ -35,7 +35,7 @@ My hobbies include music, art, coding and gaming.
 ### GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=swvstik&show_icons=true&include_all_commits=true&theme=tokyonight"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swvstik&layout=compact&theme=dark#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swvstik&layout=compact&theme=tokyonight#gh-dark-mode-only">
 
 ---
 </br>
