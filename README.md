@@ -11,7 +11,7 @@
   
 ### About Me:
 
-I'm a third year student pursuing CS.
+I'm a 4th year student pursuing CS.
 
 I'm currently trying to explore more into **Game Development**.
 
@@ -22,7 +22,7 @@ My hobbies include music, art, coding and gaming.
 <div align="center">
 
 ### Development Skills: 
-[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,js,css,lua)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=java,c,cpp,cs,python,js,css,lua)](https://skillicons.dev)
 
 ---
 
@@ -33,9 +33,10 @@ My hobbies include music, art, coding and gaming.
 
   
 ### GitHub Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=swvstik&show_icons=true&include_all_commits=true&theme=tokyonight"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swvstik&layout=compact&theme=tokyonight#gh-dark-mode-only">
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=swvstik&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swvstik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+</p>
 
 ---
 </br>
